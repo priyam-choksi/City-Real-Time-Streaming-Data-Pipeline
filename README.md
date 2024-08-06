@@ -1,4 +1,4 @@
-# End-to-End Realtime Data Streaming Pipeline
+# City Realtime Data Streaming Pipeline
 
 ## Overview
 
@@ -39,8 +39,8 @@ This project builds a comprehensive real-time data streaming pipeline for a Smar
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-city-pipeline.git
-cd smart-city-pipeline
+git clone https://github.com/yourusername/city-pipeline.git
+cd city-pipeline
 ```
 
 ### Step 2: Configure AWS Credentials
