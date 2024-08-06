@@ -25,7 +25,7 @@ This project builds a comprehensive real-time data streaming pipeline for a Smar
 
 ## Architecture
 
-![System Architecture](path/to/architecture-diagram.png)
+![System Architecture](https://github.com/priyam-choksi/City-Real-Time-Streaming-Data-Pipeline/blob/main/Data%20Architecture.jpg)
 
 ## Prerequisites
 
